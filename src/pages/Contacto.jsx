@@ -5,7 +5,7 @@ function Contacto() {
 
   const enviarFormulario = () => {
     alert('Formulario enviado');
-    navigate('/'); // volver a inicio
+    navigate('/gracias');
   };
 
   return (
